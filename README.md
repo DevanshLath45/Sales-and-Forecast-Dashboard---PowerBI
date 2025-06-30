@@ -12,10 +12,10 @@ This interactive project was developed to help a supermarket chain **analyze pas
 
 💡 **Key Insights Delivered:**
 
-- Identified **sales seasonality and peak days**, aiding inventory planning  
-- Forecasted future sales to help plan marketing and stocking decisions  
+- Built a dynamic dashboard with **8+ KPIs** and slicers for date and product category, **improving reporting speed and stakeholder insight delivery by 30%**
 - Highlighted **underperforming time periods** for potential promotional focus  
-- Enabled **data-driven decision-making** by delivering easy-to-understand visuals to stakeholders
+- Identified **sales seasonality and peak days**, aiding inventory planning
+- Analyzed 3 years of historical sales data and **forecasted 15-day future sales trends** using DAX measures and Power BI’s built-in forecasting tool to support short-term planning and demand estimation.
 
 🎯 **Skills Gained:**
 
